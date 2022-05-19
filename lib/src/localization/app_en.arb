@@ -1,0 +1,6 @@
+{
+  "appTitle": "rock_paper_scissors",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
